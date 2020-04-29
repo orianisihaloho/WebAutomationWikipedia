@@ -25,4 +25,5 @@ Library for dependencies on build.gradle:
 1. Clone this project
 2. Open the project on Intellij IDEA
 3. Run CucumberRunner
+4. Run SeleniumTest
 
